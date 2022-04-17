@@ -1,15 +1,27 @@
 # day41task
 day 41 task with heroku link
 <hr/>
-<p>format in which you need to post requests to create room and booking</p>
+<p>room numbers start from 101</p>
 <pre>
-create-room -->
+get rooms here -->
+https://day41task.herokuapp.com/rooms
+
+get bookings here -->
+https://day41task.herokuapp.com/bookings
+</pre>
+<hr/>
+<p>format in which you need to make post requests to create room and booking</p>
+<pre>
+https://day41task.herokuapp.com/create-room -->
+
 {
     "noOfSeats": 3,
     "amenities": ["AC", "Geyser"],
     "price": 90
 }
-create-booking -->
+
+https://day41task.herokuapp.com/create-booking -->
+
 {
     "customerName": "mayur d",
     "date": "17/04/2022",
