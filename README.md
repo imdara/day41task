@@ -5,11 +5,8 @@ day 41 task with heroku link
 <pre>
 homepage-->
 https://day41task.herokuapp.com/
-
-
 get rooms here -->
 https://day41task.herokuapp.com/rooms
-
 get bookings here -->
 https://day41task.herokuapp.com/bookings
 </pre>
