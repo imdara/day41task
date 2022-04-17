@@ -5,14 +5,17 @@ day 41 task with heroku link
 <pre>
 homepage-->
 https://day41task.herokuapp.com/
+
 get rooms here -->
 https://day41task.herokuapp.com/rooms
+
 get bookings here -->
 https://day41task.herokuapp.com/bookings
 </pre>
 <hr/>
 <p>format in which you need to make post requests to create room and booking</p>
 <pre>
+
 https://day41task.herokuapp.com/create-room -->
 
 {
